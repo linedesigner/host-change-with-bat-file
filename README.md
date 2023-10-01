@@ -1,2 +1,2 @@
 # host-change-with-bat-file
-Hosts file will change with a bat file
+This bat file will change your existing hosts file with the hosts_target file
